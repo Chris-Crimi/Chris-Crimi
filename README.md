@@ -1,6 +1,6 @@
 Hi! I'm Chris. I'm working to fill my github with all the stuff I'm interested in. Please feel free to browse around. My interests are: 
 - Artificial neural networks - see my Neural Networks from scratch repository.
-- Finance and capital markets
+- Finance and capital markets - see payday anomaly repository
 - Fitness/Health - see the diet optimzer repositories.
 - Entrepreneurship
 
